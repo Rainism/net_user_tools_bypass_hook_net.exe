@@ -1,0 +1,16 @@
+﻿  net_user.cpp
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\net_user.cpp(37,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“wchar_t *”
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\net_user.cpp(37,10): message : 请考虑在格式字符串中使用“%ls”
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\net_user.cpp(37,10): message : 请考虑在格式字符串中使用“%lls”
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\net_user.cpp(37,10): message : 请考虑在格式字符串中使用“%Ls”
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\net_user.cpp(37,10): message : 请考虑在格式字符串中使用“%ws”
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\net_user.cpp(49,11): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“wchar_t *”
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\net_user.cpp(49,11): message : 请考虑在格式字符串中使用“%ls”
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\net_user.cpp(49,11): message : 请考虑在格式字符串中使用“%lls”
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\net_user.cpp(49,11): message : 请考虑在格式字符串中使用“%Ls”
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\net_user.cpp(49,11): message : 请考虑在格式字符串中使用“%ws”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  net_user.vcxproj -> D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\net_user\x64\Release\net_user.exe
