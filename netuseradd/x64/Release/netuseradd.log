@@ -1,0 +1,9 @@
+﻿  net_user_add.cpp
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\netuseradd\net_user_add.cpp(2,1): warning C4005: “UNICODE”: 宏重定义
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\netuseradd\net_user_add.cpp : message : 参见“UNICODE”的前一个定义
+  正在生成代码
+  1 of 4 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  netuseradd.vcxproj -> D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\netuseradd\x64\Release\netuseradd.exe
