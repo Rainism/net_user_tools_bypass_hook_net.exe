@@ -1,0 +1,6 @@
+﻿  netuserenum.cpp
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\netuserenum\netuserenum.cpp(2,1): warning C4005: “UNICODE”: 宏重定义
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\netuserenum\netuserenum.cpp : message : 参见“UNICODE”的前一个定义
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\netuserenum\netuserenum.cpp(89,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\netuserenum\netuserenum.cpp(58,8): warning C4101: “i”: 未引用的局部变量
+  netuserenum.vcxproj -> D:\red_team_attack\[####]C++编程学习记录\net_user_api_learn\netuserenum\x64\Debug\netuserenum.exe
